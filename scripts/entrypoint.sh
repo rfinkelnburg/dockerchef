@@ -7,5 +7,5 @@ chef-client --local-mode hello.rb
 #chef-client --local-mode aptupdate.rb
 #chef-client --local-mode webserver.rb
 
-# Do some nice stuff (e.g. getting a shel ;)
+# Do some nice stuff (e.g. getting a shell ;)
 /bin/bash

@@ -2,7 +2,7 @@
 
 This is just another personal study of using a Chef client to provision a docker container. Provioning 
 examples (see resouces/recipies in `chef-repo` subfolder) are borrowed and somtimes adjusted from the
-official Chef tutorial available at `https://learn.chef.io/learn-the-basics/ubuntu/`. It is certainly
+official Chef tutorial available at https://learn.chef.io/learn-the-basics/ubuntu/. It is certainly
 a good resource to start with ;)  
 
 Building the docker image a `debian:jessie` base image is pulled and Chef client verions 12.9.38 is
